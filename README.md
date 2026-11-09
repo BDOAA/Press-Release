@@ -71,9 +71,13 @@ Milestones include two silver medals and one bronze at IOAA 2023 in Poland, a si
 
 ## About BDOAA and IOAA
 
-**Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** is a volunteer-led national programme that organises regional and national competitions, conducts training camps, and selects and prepares Bangladesh's delegations for IOAA and IOAA Junior. Alongside competition preparation, it supports astronomy education through workshops and learning resources.
+**Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA)** is a volunteer-led national programme for students in **Classes 6–12 and equivalent levels** across Bangladesh. It encourages students to explore astronomy and astrophysics, apply physics and mathematics to unfamiliar problems, and develop scientific reasoning, data-analysis and observational skills. Through regional and national competitions, training camps and team selection tests, BDOAA identifies and prepares students to represent Bangladesh at IOAA and IOAA Junior. Its academic activities are supported by former Olympiad participants, university students, graduates and teachers who volunteer as trainers, question setters and evaluators.
 
-**The International Olympiad on Astronomy and Astrophysics (IOAA)** is an international competition for pre-university students, first held in 2007. Students apply physics and mathematics to astronomical problems, interpret scientific data and demonstrate observational skills. IOAA Junior offers a corresponding competition for younger students.
+BDOAA forms part of the educational outreach of the **Center for Astronomy, Space Science and Astrophysics (CASSA)**, an autonomous research centre at **Independent University, Bangladesh (IUB)**. This connection brings the school-level Olympiad programme into contact with university researchers and astronomy education. IUB's Department of Physical Sciences has funded BDOAA's national rounds since 2020. In 2026, CASSA and the department jointly organised the national round at IUB, combining the competition with lectures, workshops and astronomy observation activities.
+
+**The International Olympiad on Astronomy and Astrophysics (IOAA)** is an international competition for secondary and higher-secondary students, first held in 2007. Participants represent their countries through nationally selected delegations. The competition tests their ability to solve theoretical problems, interpret astronomical data and carry out observational tasks, alongside opportunities for international teamwork and scientific exchange.
+
+IOAA eligibility depends on both age and educational status: students must not turn 20 before 1 July of the competition year and must not have completed Grade 12 or its equivalent before 1 January of that year. Students who finish school during the competition year can therefore remain eligible. **IOAA Junior** is a separate international competition for students under 16, with its own eligibility rules and syllabus. BDOAA's selection and training programme prepares Bangladesh's delegations for both competitions.
 
 ## Media contact
 
