@@ -58,7 +58,7 @@ IOAA Junior provides an international astronomy and astrophysics competition for
 
 ## A record of international achievement
 
-From 2018 through the conclusion of IOAA Junior 2026, BDOAA-selected students have earned **16 medals — six silver and ten bronze — and 12 honourable mentions** across IOAA, IOAA Junior and the pandemic-era Global e-Competition on Astronomy and Astrophysics (GeCAA). Bangladeshi students have also been members of winning groups on three occasions.
+From 2018 through the conclusion of IOAA Junior 2026, BDOAA-selected students have earned **16 medals — six silver and ten bronze — and 12 honourable mentions** across IOAA and IOAA Junior and the Global e-Competition on Astronomy and Astrophysics (GeCAA). Bangladeshi students have also been members of winning groups on three occasions.
 
 | Competition | Silver medals | Bronze medals | Honourable mentions |
 | --- | ---: | ---: | ---: |
@@ -67,7 +67,7 @@ From 2018 through the conclusion of IOAA Junior 2026, BDOAA-selected students ha
 | GeCAA 2020 | 2 | 3 | 1 |
 | **Total** | **6** | **10** | **12** |
 
-Milestones include two silver medals and one bronze at IOAA 2023 in Poland, a silver medal at Bangladesh's IOAA Junior debut in 2024, and another senior IOAA silver in 2025. The three group distinctions were earned at GeCAA 2020, IOAA 2025 and IOAA 2026.
+Milestones include two silver medals and one bronze at IOAA 2023 in Poland, a silver medal at Bangladesh's IOAA Junior debut in 2024, and another senior IOAA silver in 2025. The three group competition distinctions were earned at GeCAA 2020, IOAA 2025 and IOAA 2026.
 
 ## About BDOAA and IOAA
 
