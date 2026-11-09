@@ -16,7 +16,7 @@ BDOAA recorded **853 regional registrations** in 2026, with **201 students compe
 
 The programme introduces students to astronomy and astrophysics beyond their school curriculum, developing the mathematical reasoning, physical understanding, data analysis and observational skills needed for international competition. BDOAA's academic team includes former Olympiad participants, university students and graduates who contribute to teaching, assessment and team preparation.
 
-<details>
+
 <summary><strong>IOAA Senior 2026 — Hanoi, Vietnam :vietnam: | Full delegation and results</strong></summary>
 
 The five students representing Bangladesh at the 19th IOAA were:
@@ -35,9 +35,7 @@ The Olympiad tested theory, data analysis, telescope observation, planetarium sk
 
 Junaed's group award followed **Farhan Sajid's** membership of a winning multinational group at IOAA 2025 in Mumbai, giving Bangladesh representation in a winning group for two consecutive years. These groups bring together students from different countries to solve problems collaboratively.
 
-</details>
 
-<details>
 <summary><strong>IOAA Junior 2026 — Ubon Ratchathani, Thailand :thailand: | Full delegation and results</strong></summary>
 
 The five students representing Bangladesh at the fifth IOAA Junior were:
@@ -54,7 +52,7 @@ The team was led by **Labib Bin Azad**, Dhaka University undergrad, and **Ahnaf 
 
 IOAA Junior provides an international astronomy and astrophysics competition for students under 16. This was Bangladesh's second appearance, following its debut in Nepal in 2024, when the team earned one silver medal, two bronze medals and one honourable mention.
 
-</details>
+
 
 ## A record of international achievement
 
