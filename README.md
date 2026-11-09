@@ -29,7 +29,7 @@ The five students representing Bangladesh at the 19th IOAA were:
 | Md Radit Raian | Adamjee Cantonment College | HSC 2026 | Participant |
 | Arash Zuhayr Udoy | Maple Leaf International School | Class 9 | Bronze Medal |
 
-Arash was the youngest member of Bangladesh's senior delegation. The team was led by **Fahim Rajit Hossain Shwadhin** and **Arnab Chowdhury**, Lecturer in Civil Engineering at the University of Asia Pacific.
+Arash was the youngest member of Bangladesh's senior delegation. The team was led by **Fahim Rajit Hossain Shwadhin**, AI Engineer; and **Arnab Chowdhury**, Lecturer in Civil Engineering at the University of Asia Pacific.
 
 The Olympiad tested theory, data analysis, telescope observation, planetarium skills and teamwork. Its closing ceremony took place at Phenikaa University on 4 October.
 
@@ -50,7 +50,7 @@ The five students representing Bangladesh at the fifth IOAA Junior were:
 | MD Ridwan Mosarraf | Rajshahi Collegiate School | Class 8 | Bronze Medal |
 | Yash Aditya Paul | Summerfield International School | Class 9 | Participant |
 
-The team was led by **Labib Bin Azad** and **Ahnaf Islam Rakin**.
+The team was led by **Labib Bin Azad**, Dhaka University undergrad, and **Ahnaf Islam Rakin**, Islamic University of Technology undergrad.
 
 IOAA Junior provides an international astronomy and astrophysics competition for students under 16. This was Bangladesh's second appearance, following its debut in Nepal in 2024, when the team earned one silver medal, two bronze medals and one honourable mention.
 
