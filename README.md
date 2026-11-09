@@ -100,4 +100,6 @@ Delegation and historical records: [Student participants](https://github.com/BDO
 
 Event information: [IOAA 2026](https://www.ioaa2026.vn/en/news/be-mac-ioaa-2026) · [IOAA Junior 2026](https://ioaajr2026.ubu.ac.th/)
 
+BDOAA in the News: [BDOAA News](https://github.com/BDOAA/Media)
+
 **END**
