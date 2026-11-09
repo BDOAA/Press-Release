@@ -31,6 +31,10 @@ The five students representing Bangladesh at the 19th IOAA were:
 
 Arash was the youngest member of Bangladesh's senior delegation. The team was led by **Fahim Rajit Hossain Shwadhin**, AI Engineer; and **Arnab Chowdhury**, Lecturer in Civil Engineering at the University of Asia Pacific.
 
+![Bangladesh delegation at IOAA 2026](<Bangladesh IOAA team with students and team leaders.jpg>)
+
+*From left: Md Radit Raian, Junaed Labeeb Al Waasi, Arash Zuhayr Udoy, Fahim Rajit Hossain Shwadhin (Team Leader), Md Talha Zobair, Sajid Aman, and Arnab Chowdhury (Team Leader).*
+
 The Olympiad tested theory, data analysis, telescope observation, planetarium skills and teamwork. Its closing ceremony took place at Phenikaa University on 4 October.
 
 Junaed's group award followed **Farhan Sajid's** membership of a winning multinational group at IOAA 2025 in Mumbai, giving Bangladesh representation in a winning group for two consecutive years. These groups bring together students from different countries to solve problems collaboratively.
@@ -49,6 +53,10 @@ The five students representing Bangladesh at the fifth IOAA Junior were:
 | Yash Aditya Paul | Summerfield International School | Class 9 | Participant |
 
 The team was led by **Labib Bin Azad**, Dhaka University undergrad, and **Ahnaf Islam Rakin**, Islamic University of Technology undergrad.
+
+![Bangladesh delegation at IOAA Junior 2026](<Bangladesh IOAA Jr team with students, team leaders and guides.jpeg>)
+
+*From left: Ahnaf Islam Rakin (Team Leader), Thai guide, Soumik Ray Dibyo, MD Rhine Salehin, Anova Yeana Chowdhury, MD Ridwan Mosarraf, Yash Aditya Paul, Thai guide, and Labib Bin Azad (Team Leader).*
 
 IOAA Junior provides an international astronomy and astrophysics competition for students under 16. This was Bangladesh's second appearance, following its debut in Nepal in 2024, when the team earned one silver medal, two bronze medals and one honourable mention.
 
@@ -76,6 +84,10 @@ BDOAA forms part of the educational outreach of the **Center for Astronomy, Spac
 **The International Olympiad on Astronomy and Astrophysics (IOAA)** is an international competition for secondary and higher-secondary students, first held in 2007. Participants represent their countries through nationally selected delegations. The competition tests their ability to solve theoretical problems, interpret astronomical data and carry out observational tasks, alongside opportunities for international teamwork and scientific exchange.
 
 IOAA eligibility depends on both age and educational status: students must not turn 20 before 1 July of the competition year and must not have completed Grade 12 or its equivalent before 1 January of that year. Students who finish school during the competition year can therefore remain eligible. **IOAA Junior** is a separate international competition for students under 16, with its own eligibility rules and syllabus. BDOAA's selection and training programme prepares Bangladesh's delegations for both competitions.
+
+## Photographs for publication
+
+[Download photographs and captions — ZIP](https://github.com/BDOAA/Press-Release/raw/refs/heads/main/IOAA-Media-2026.zip)
 
 ## Media contact
 
