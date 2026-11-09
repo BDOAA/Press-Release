@@ -12,7 +12,7 @@ At the fifth International Olympiad on Astronomy and Astrophysics for Juniors (I
 
 ## From national selection to international competition
 
-BDOAA recorded **853 regional registrations** in 2026, with **201 students competing in the national round** and **60 selected for the national training camp**. National winners received two months of online training before team selection tests. The final IOAA and IOAA Jr. teams then completed an additional month and a half of preparation.
+BDOAA recorded around **1000 regional registrations** in 2026, with **200 students competing in the national round** and **60 selected for the national training camp**. National winners received two months of online training before team selection tests. The final IOAA and IOAA Jr. teams then completed an additional month and a half of preparation.
 
 The programme introduces students to astronomy and astrophysics beyond their school curriculum, developing the mathematical reasoning, physical understanding, data analysis and observational skills needed for international competition. BDOAA's academic team includes former Olympiad participants, university students and graduates who contribute to teaching, assessment and team preparation.
 
