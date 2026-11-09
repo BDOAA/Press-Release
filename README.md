@@ -4,7 +4,7 @@
 
 **A Bangladeshi student also joined a winning multinational group at IOAA, marking the country's second consecutive year of success in the group competition.**
 
-**Dhaka, 9 November 2026** — Students selected and trained through the Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA) have earned two bronze medals and two honourable mentions at the senior and junior international astronomy olympiads in 2026. Bangladesh sent five students to each competition, representing the country in Hanoi, Vietnam, and Ubon Ratchathani, Thailand.
+**Dhaka, 9 November 2026** — Students selected and trained through the Bangladesh Olympiad on Astronomy and Astrophysics (BDOAA) have earned two bronze medals and two honourable mentions at the senior and junior international astronomy and astrophysics Olympiads in 2026. Bangladesh sent five students to each competition, representing the country in Hanoi, Vietnam, and Ubon Ratchathani, Thailand.
 
 At the 19th International Olympiad on Astronomy and Astrophysics (IOAA) in Hanoi, **Arash Zuhayr Udoy** of Maple Leaf International School won bronze, while **Md Talha Zobair** of Dhaka City College received an honourable mention. **Junaed Labeeb Al Waasi** of Notre Dame College was a member of the winning multinational group in the group competition.
 
