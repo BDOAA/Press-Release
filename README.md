@@ -1,6 +1,6 @@
 **PRESS RELEASE**
 
-# Bangladesh wins two bronze medals and two honourable mentions at international astronomy olympiads in 2026
+# Bangladesh wins two bronze medals and two honourable mentions at IOAA and IOAA Jr. in 2026
 
 **A Bangladeshi student also joined a winning multinational group at IOAA, marking the country's second consecutive year of success in the group competition.**
 
